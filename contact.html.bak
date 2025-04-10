@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+form {text-align: center;}
+ul {text-align: center;}
+</style>
+    <section>
+        <h1>GET IN TOUCH</h1>
+        <form action="#" method="post"><strong>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br><br>
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="5" required></textarea><br><br>
+            <button type="submit">Submit</button>
+        </form>
+		    </section>
+	<nav>
+        <ul>
+            <div><a href="index.html">Home</a></div>
+            <div><a href="contact.html">Contact</a></div>
+        </ul>
+    </nav>
+    <footer>
+        <p><em>&copy; 2025 My Portfolio. All Rights Reserved.</em></p>
+    </footer>
+</body>
+</html>

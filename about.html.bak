@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <header>
+	<p><img src="demo.jpg" alt="description" width="600" height="150" /></p>
+        <h1>MY SELF</h1>
+    </header>
+		<p><q><em>Success is a journey, not a destination.</em></q></p>
+    <section>
+        <h2>INTRODUCTION</h2>
+        <p><strong>Hello! I'm a passionate golfer. Welcome to my portfolio.</strong></p>
+        <p><img src="profile.jpg" alt="My Picture" width="600"></p>
+    </section>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+h1 {text-align: center;}
+h2 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+li {text-align: center;}
+ol {text-align: center;}
+ul {text-align: center;}
+
+</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABOUT ME</title>
+</head>
+</body>
+    <header>
+        <h1>ABOUT ME</h1>
+    </header>
+
+    <section>
+        <h2>BACKGROUND</h2>
+        <p><strong>Assalamualaikum and Hello there!</strong> I'm Danial Sharif from Kuala Lumpur currently working and studying in Kuching.</p>
+        <h2>SKILLS</h2>
+        <ul>
+            <div><li>HTML</li></div>
+            <div><li>CSS</li></div>
+            <div><li>Scratch</li></div>
+        </ul>
+        <h2>INTERESTS</h2>
+			<ol>
+            <li>Golfing</li>
+            <li>Golfing</li>
+            <li>Golfing</li>
+        </ol>
+        <div><video width="320" height="480" controls>
+            <source src="videoplayback.mp4" type="video/mp4"></div>    
+        </video>
+		<p><audio controls="controls">
+  <source src="sound.ogg" type="audio/ogg" />
+  <source src="sound.mp3" type="audio/mpeg" />
+</audio></p>
+    <nav>
+        <ul>
+            <div><a href="index.html">Home</a></div>
+            <div><a href="contact.html">Contact</a></div>
+        </ul>
+    </nav>
